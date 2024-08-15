@@ -1,0 +1,22 @@
+{
+  "isUnderMaintenance": false,
+  "contracts": {
+    "wU2u": "0x79538ce1712498fd1b9a9861e62acb257d7506fc",
+    "wEth": "0x94504F356a267f3a128C2e6387281bCCDbD821a0",
+    "wBtc": "0x4EbBe24182E9c14e1d2e02AB9459190F39c43B6F",
+    "erc721Market": "0xcC84E04388B201b49Bb3a5C9cc6Bf7907024A589",
+    "erc721Factory": "0x480DB1912C66D8dD0d024A64a7464C0C84d2c3cD",
+    "erc721Proxy": "0x1b122EFF77D9A54d6c773C971F6ACB6AAA9f90a8",
+    "erc721U2uBase": "0x863EC6ae0dEA0cF60b2Cc9A987EA1649974f1C21",
+    "erc1155Market": "0xe6B23f494ca1e49fE76cc3A606bfbAB45585AB43",
+    "erc1155Factory": "0xBf5D82D19c50e7910D4F923B28112061499A1Baf",
+    "erc1155Proxy": "0xEdDd02437aA5dB6dEf90FF32c329DECd2BCb86dB",
+    "erc1155U2uBase": "0xd70409035677a741901369C1CD4A86550B09f5Fa",
+    "royaltiesRegistry": "0xd910D466fd5EadADCC67F2845df4BE952A8f7182",
+    "feeDistributor": "0xD118C24A531f0f664fE85C20CdfE130efccfD89e",
+    "memetaverse": "0xa93bD90625827b160148f40455B809aE17D4f55f",
+    "requiredCollection": "0x02bbf482d7a8b027a5B1b8A84f4BccC1ab67D276",
+    "specialRound": "0xaE44603b67485FFe8C248039138e1467C511a2f7"
+  },
+  "connectMessage": "I want to login on Memetaverse at ${time}. I accept the U2U Terms of Service https://unicornultra.xyz and I am at least 13 years old."
+}
